@@ -4,11 +4,11 @@
            border-radius: 5px;
            padding: 0.5rem;
         }
-        tbody>tr:nth-child(even)
+        tbody>tr:nth-child(even)>td
         {
             background: #ffffff;
         }
-        tbody>tr:nth-child(odd)
+        tbody>tr:nth-child(odd)>td
         {
             background: #f2f2f2;
         }
